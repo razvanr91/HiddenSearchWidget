@@ -50,8 +50,10 @@ body {
 
 .search.active .input {
   width: 200px;
+  border-radius: 10px;
 }
 
 .search.active .btn {
-  transform: translateX(198px);
+  transform: translateX(183px);
+  border-radius: 10px;
 }
